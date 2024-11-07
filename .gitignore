@@ -1,5 +1,0 @@
-# exclude everything
-Folder/*
-
-# exception to the rule
-!Folder/.gitkeep 
