@@ -1,5 +1,5 @@
 # exclude everything
-Folder/*
+**/Folder/*
 
 # exception to the rule
 !Folder/.gitkeep 
